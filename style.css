@@ -30,6 +30,12 @@ body {
   position: relative;
 }
 
+@media(max-width: 500px) {
+  .card{
+    width: 350px;
+  }
+}
+
 .pause {
   margin-bottom: 68px;
 }
